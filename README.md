@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamesdecent
+- 👋 Hi, I’m @James Awojobi
 - 👀 I’m interested in Solving Business Problems by providing Actionable Insights 
 - 🌱 I’m currently learning Predictions using Machine Learning
 - 💞️ I’m looking to collaborate on Supervised and Unsupervised Learning
